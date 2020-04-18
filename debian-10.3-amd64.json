@@ -104,7 +104,7 @@
     "headless": "false",
     "iso_checksum": "6a901b5abe43d88b39d627e1339d15507cc38f980036b928f835e0f0e957d3d8",
     "iso_checksum_type": "sha256",
-    "memory": "512",
+    "memory": "1024",
     "mirror": "http://cdimage.debian.org/debian-cd",
     "iso_url": "https://cdimage.debian.org/debian-cd/10.3.0/amd64/iso-cd/debian-10.3.0-amd64-netinst.iso",
     "ssh_timeout": "60m"
